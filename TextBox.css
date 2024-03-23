@@ -1,0 +1,32 @@
+*
+{
+    padding: 10px ;
+    margin: 0px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+
+}
+
+.heading
+{
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 40px;
+    color: indigo; 
+}
+
+.textboxForm label
+{
+    color: olivedrab;
+    font-weight: bolder;
+}
+
+.textboxForm button
+{
+    color: aliceblue;
+    background-color: darkred;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
